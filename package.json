@@ -1,0 +1,19 @@
+{
+  "name": "top-shot-balls",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.2",
+    "hardhat": "^2.5.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^10.0.0"
+  }
+}
